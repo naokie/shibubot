@@ -1,0 +1,16 @@
+{
+  "name": "botkit-on-bluemix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Naoki Endoh <naoki.endoh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.12",
+    "cfenv": "1.0.3",
+    "redis": "2.5.3"
+  }
+}
