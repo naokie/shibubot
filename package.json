@@ -9,11 +9,11 @@
   "author": "Naoki Endoh <naoki.endoh@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "botkit": "0.0.12",
-    "cfenv": "1.0.3",
-    "cron": "1.1.0",
-    "lodash": "4.6.1",
-    "redis": "2.5.3",
-    "request": "2.69.0"
+    "botkit": "0.6.11",
+    "cfenv": "1.0.4",
+    "cron": "1.3.0",
+    "lodash": "4.17.5",
+    "redis": "2.8.0",
+    "request": "2.83.0"
   }
 }
