@@ -1,5 +1,7 @@
 ## Deploy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/shibubot.svg)](https://greenkeeper.io/)
+
 Sign up IBM Bluemix
 
 https://console.ng.bluemix.net/registration/
